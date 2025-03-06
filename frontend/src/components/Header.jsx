@@ -7,7 +7,7 @@ import React from 'react';
 
 function Header() {
   return (
-    <Navbar expand="lg" bg="primary" variant="dark">
+    <Navbar expand="lg" bg="light" variant="light">
       <Container>
 
         <Navbar.Brand href="#home"><i class="fas fa-home"></i> QUIZ </Navbar.Brand>
